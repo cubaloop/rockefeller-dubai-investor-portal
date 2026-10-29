@@ -1,0 +1,12 @@
+{
+  "name": "rockefeller-dubai-investor-portal",
+  "version": "1.0.0",
+  "description": "Christian A. Rockefeller Business Tower Dubai - Institutional Grade-A Commercial Investment Dossier & Interactive Investor Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
